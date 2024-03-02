@@ -1,0 +1,9 @@
+{
+  "plugins": ["languages"],
+  "pluginsConfig": {
+    "languages": {
+      "langs": ["en", "fr", "es"], // 添加你想支持的语言
+      "defaultLanguage": "en" // 设置默认语言
+    }
+  }
+}
