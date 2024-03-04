@@ -1,5 +1,3 @@
-# 💰 Make earning by Super.I
-
 <a name="Yz2Je"></a>
 # Revenue
 <a name="c0aUl"></a>
