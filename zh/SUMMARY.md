@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🌟 What is Super.I](README.md)
+* [🌟 Super.I是什么？](README.md)
 
 ## Tutorial
 
