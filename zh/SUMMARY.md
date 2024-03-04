@@ -4,7 +4,8 @@
 
 ## Tutorial
 
-* [🛠️ App manager](tutorial/app-manager.md)
-* [📊 Data analysis](tutorial/data-analysis.md)
-* [⚙️ Action intergration](tutorial/action-intergration.md)
-* [💰 Make earning by Super.I](tutorial/make-earning-by-super.i.md)
+* [🛠️ APP管理](tutorial/app-manager.md)
+* [📊 数据分析](tutorial/data-analysis.md)
+* [⚙️ Action集成](tutorial/action-intergration.md)
+* [💰 获得广告收入](tutorial/make-earning-by-super.i.md)
+
