@@ -1,5 +1,3 @@
-# 📊 Data analysis
-
 <a name="h61wJ"></a>
 # Dashboard
 <a name="wNLFH"></a>

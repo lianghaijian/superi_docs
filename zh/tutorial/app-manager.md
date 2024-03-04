@@ -1,5 +1,3 @@
-# 🛠️ App manager
-
 <a name="j8fdX"></a>
 # Apps
 <a name="qNALX"></a>
