@@ -9,7 +9,7 @@
 
 <a name="qkUiK"></a>
 ### 广告统计
-![image.png](https://intranetproxy.alipay.com/skylark/lark/0/2024/png/236735/1709016665936-6dde1a84-3f8c-4c60-af29-35fb5b76c195.png#clientId=u8a381aee-3d4d-4&from=paste&height=332&id=ua10acbd4&originHeight=664&originWidth=2222&originalType=binary&ratio=2&rotation=0&showTitle=false&size=535985&status=done&style=stroke&taskId=u3ec285b1-c9d3-4217-9243-859de22495d&title=&width=1111)
+![](https://intranetproxy.alipay.com/skylark/lark/0/2024/png/236735/1709016665936-6dde1a84-3f8c-4c60-af29-35fb5b76c195.png#clientId=u8a381aee-3d4d-4&from=paste&height=332&id=ua10acbd4&originHeight=664&originWidth=2222&originalType=binary&ratio=2&rotation=0&showTitle=false&size=535985&status=done&style=stroke&taskId=u3ec285b1-c9d3-4217-9243-859de22495d&title=&width=1111)
 
 | **字段** | **说明** |
 | --- | --- |
@@ -23,7 +23,7 @@
 
 <a name="qOJ58"></a>
 ### 用户统计
-![image.png](https://intranetproxy.alipay.com/skylark/lark/0/2024/png/236735/1709017175790-e05da7ba-8d91-47bb-b025-34165e8af96e.png#clientId=u8a381aee-3d4d-4&from=paste&height=523&id=u5d18d875&originHeight=1046&originWidth=2228&originalType=binary&ratio=2&rotation=0&showTitle=false&size=952787&status=done&style=stroke&taskId=u05c08ac0-bcb8-4712-bbab-809a01cfa9c&title=&width=1114)
+![](https://intranetproxy.alipay.com/skylark/lark/0/2024/png/236735/1709017175790-e05da7ba-8d91-47bb-b025-34165e8af96e.png#clientId=u8a381aee-3d4d-4&from=paste&height=523&id=u5d18d875&originHeight=1046&originWidth=2228&originalType=binary&ratio=2&rotation=0&showTitle=false&size=952787&status=done&style=stroke&taskId=u05c08ac0-bcb8-4712-bbab-809a01cfa9c&title=&width=1114)
 
 | **字段** | **说明** |
 | --- | --- |
@@ -35,25 +35,24 @@
 
 <a name="w0NaT"></a>
 ### 用户分布
-![image.png](https://intranetproxy.alipay.com/skylark/lark/0/2024/png/236735/1709017474816-830b020a-a25f-4854-afae-6bb3c1ad344e.png#clientId=u8a381aee-3d4d-4&from=paste&height=565&id=u2fd08406&originHeight=1130&originWidth=2224&originalType=binary&ratio=2&rotation=0&showTitle=false&size=1130923&status=done&style=stroke&taskId=ua268b1f9-5395-4c97-a3d9-872ba5fe615&title=&width=1112)
+![](https://intranetproxy.alipay.com/skylark/lark/0/2024/png/236735/1709017474816-830b020a-a25f-4854-afae-6bb3c1ad344e.png#clientId=u8a381aee-3d4d-4&from=paste&height=565&id=u2fd08406&originHeight=1130&originWidth=2224&originalType=binary&ratio=2&rotation=0&showTitle=false&size=1130923&status=done&style=stroke&taskId=ua268b1f9-5395-4c97-a3d9-872ba5fe615&title=&width=1112)
 
 | **字段** | **说明** |
 | --- | --- |
 | COUNTRY/REGION (TOP10) | 用户分布国家/地区前十 |
 | USERS | 展示该国家用户的总数以及这些用户占全部用户总数的百分比 |
-| ![image.png](https://intranetproxy.alipay.com/skylark/lark/0/2024/png/236735/1709017917831-0c71bc1c-f945-487a-9127-86dd98cdbf71.png#clientId=u8a381aee-3d4d-4&from=paste&height=29&id=uc571ac9c&originHeight=58&originWidth=56&originalType=binary&ratio=2&rotation=0&showTitle=false&size=6928&status=done&style=none&taskId=u6f4ad17e-1de5-4719-8955-9f53fbee381&title=&width=28) | 点击保存用户分布图片 |
+| ![](https://intranetproxy.alipay.com/skylark/lark/0/2024/png/236735/1709017917831-0c71bc1c-f945-487a-9127-86dd98cdbf71.png#clientId=u8a381aee-3d4d-4&from=paste&height=29&id=uc571ac9c&originHeight=58&originWidth=56&originalType=binary&ratio=2&rotation=0&showTitle=false&size=6928&status=done&style=none&taskId=u6f4ad17e-1de5-4719-8955-9f53fbee381&title=&width=28) | 点击保存用户分布图片 |
 
 <a name="qiTeA"></a>
 ### 历史对话
-![image.png](https://intranetproxy.alipay.com/skylark/lark/0/2024/png/236735/1709017687903-dd976896-b038-4649-bae5-439b2473b28e.png#clientId=u8a381aee-3d4d-4&from=paste&height=540&id=u5c02794c&originHeight=1080&originWidth=2220&originalType=binary&ratio=2&rotation=0&showTitle=false&size=751615&status=done&style=stroke&taskId=u54a41d04-04a8-4b4a-ba5a-b0aed0edaf9&title=&width=1110)
+![](https://intranetproxy.alipay.com/skylark/lark/0/2024/png/236735/1709017687903-dd976896-b038-4649-bae5-439b2473b28e.png#clientId=u8a381aee-3d4d-4&from=paste&height=540&id=u5c02794c&originHeight=1080&originWidth=2220&originalType=binary&ratio=2&rotation=0&showTitle=false&size=751615&status=done&style=stroke&taskId=u54a41d04-04a8-4b4a-ba5a-b0aed0edaf9&title=&width=1110)
 
 | **字段** | **说明** |
 | --- | --- |
 | App name | Super.I 创建的应用名字 |
 | Title | 应用绑定的 GPTs 的名称 |
 | Date | 用户在该 GPTs 的第一次对话时间 |
-| Context | 点击 View 可查看用户 在该 GPTs 的第一次对话内容，例如：
-![image.png](https://intranetproxy.alipay.com/skylark/lark/0/2024/png/236735/1709018532596-890f064a-5c4e-4bed-abd2-e0052ddcdc3d.png#clientId=u8a381aee-3d4d-4&from=paste&height=141&id=ubfb23a6d&originHeight=282&originWidth=1034&originalType=binary&ratio=2&rotation=0&showTitle=false&size=144604&status=done&style=stroke&taskId=ufc25acb9-b828-4883-b767-e8ce16a0bd3&title=&width=517) |
+| Context | 点击 View 可查看用户 在该 GPTs 的第一次对话内容 |
 
 <a name="nYwN0"></a>
 ### Feedback
@@ -62,7 +61,18 @@
 在创建应用程序时，如果选中了“Collect user feedback”（收集用户反馈）选项，开发者便可以通过动作（action）来收集用户的反馈。这样做可以让开发者分析用户的反馈信息，从而对 GPTs 进行优化和完善，提高应用的性能和用户体验。
 <a name="ETU8g"></a>
 #### 页面展示
-![image.png](https://intranetproxy.alipay.com/skylark/lark/0/2024/png/236735/1709018745478-2866ea37-dac1-417d-b7bc-f13fccd36bee.png#clientId=u8a381aee-3d4d-4&from=paste&height=456&id=ub7fd953e&originHeight=912&originWidth=2222&originalType=binary&ratio=2&rotation=0&showTitle=false&size=607145&status=done&style=stroke&taskId=ue6b344bc-44f5-4cce-a8f9-f88fbce0ddd&title=&width=1111)
+
+- GPTs 在对话结束时加入反馈机制
+
+![](https://intranetproxy.alipay.com/skylark/lark/0/2024/png/236735/1709603834354-d4d11ba6-1a8f-4e28-81ed-f31de66e138b.png#clientId=u4af658f2-2de9-4&from=paste&height=1434&id=u8ac93563&originHeight=1434&originWidth=1106&originalType=binary&ratio=2&rotation=0&showTitle=false&size=2140815&status=done&style=stroke&taskId=ub498686d-706a-4176-8d31-06a021971b1&title=&width=1106)
+
+- 用户可以通过直接回复的方式进行意见反馈
+
+![](https://intranetproxy.alipay.com/skylark/lark/0/2024/png/236735/1709553567588-33390281-8ec7-4677-b32d-ef60d80ce032.png#clientId=u4af658f2-2de9-4&from=paste&height=267&id=u87ccc29f&originHeight=398&originWidth=1118&originalType=binary&ratio=2&rotation=0&showTitle=false&size=234050&status=done&style=stroke&taskId=u601b2b8f-6944-4cb5-81aa-bc882431eea&title=&width=751)
+
+- GPTs 现支持在对话结束时加入尾部广告和反馈机制
+
+![](https://intranetproxy.alipay.com/skylark/lark/0/2024/png/236735/1709553513791-7f4743d0-6c01-4f68-896e-906bf4109b6d.png#clientId=u4af658f2-2de9-4&from=paste&height=256&id=ua713d8e1&originHeight=512&originWidth=2810&originalType=binary&ratio=2&rotation=0&showTitle=false&size=1661933&status=done&style=stroke&taskId=u68615205-ab1c-4937-babf-1d3fea756cf&title=Super.I%20%E9%A1%B5%E9%9D%A2&width=1405)
 
 | **字段** | **说明** |
 | --- | --- |
