@@ -1,6 +1,6 @@
 # 🌟 What is Super.I
 
-Super.I (Super Individual) is an AI-native application developer service platform dedicated to serving developers in the AI era. We aim to assist them in developing exceptional AI-native products and achieving success in the commercial field, helping developers become super individuals in the AI era.
+Super.I (Super Individual) is an AI-native application developer service platform dedicated to serving OpenAI Custom GPT(GPTs) developers. We aim to assist them in developing exceptional AI-native products and achieving success in the commercial field, helping developers become super individuals in the AI era.
 
 Super.I currently offers the following main features:
 
